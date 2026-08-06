@@ -6,7 +6,7 @@ MSc Mechatronics & Mechanical Engineering Student | Seeking Placement Opportunit
 
 
 📄 Curriculum Vitae
-📥 [View / Download Full CV (PDF)](./R.Ganipisetty_CV_SSE.pdf)
+📥 [View / Download Full CV (PDF)](./R.Ganipisetty_Resume.pdf)
 
                                           
 
