@@ -1,6 +1,6 @@
 Hi, I'm Ramanjaneyulu Ganipisetty 👋
 
-MSc Mechatronics & Mechanical Engineering Student** | Seeking Placement Opportunities  
+MSc Mechatronics & Mechanical Engineering Student | Seeking Placement Opportunities  
 📍 United Kingdom | 📧 R.Ganipisetty@hotmail.com | 🔗 [LinkedIn Profile](https://linkedin.com/in/rganipisetty)
 
 
@@ -28,9 +28,9 @@ Simulated a constrained-environment diagnostic robot in Webots for human GI trac
 Applied autonomous movement, sensor integration, and control principles to optimize maneuverability and data acquisition.
 
 ⚙️ Mechanical Design & Structural Analysis
-Auxetic Lattice Aircraft Landing Gear Strut** | *University Project (2022 – 2023)*
+Auxetic Lattice Aircraft Landing Gear Strut - University Project (2022 – 2023)
 Engineered an innovative landing gear strut featuring an auxetic lattice core wrapped in composite layers for maximum energy absorption.
-Conducted full **Finite Element Analysis (FEA)** to evaluate stress distribution and deformation under dynamic landing loads.
+Conducted full Finite Element Analysis (FEA) to evaluate stress distribution and deformation under dynamic landing loads.
 
 
                                             
@@ -38,7 +38,7 @@ Education & Certifications
 
 MSc Mechanical Engineering and Mechatronics - University of Chester *(Expected Distinction, 2026 – 2028)
 Coursework: Applied FEA, Advanced Embedded Systems & IoT, Robotics, Advanced Manufacturing.
-BSc (Hons) Mechanical Manufacturing Engineering - Newcastle College (Merit, 2021 – 2023)*
+BSc (Hons) Mechanical Manufacturing Engineering - Newcastle College (Merit, 2021 – 2023)
 Introduction to Robotics - NPTEL – IIT Madras (2025 – 2026)
 Python Programming - NPTEL – IIT Madras (2023)
 
@@ -51,5 +51,3 @@ Led a team of 70+ associates, managing operational data and quality metrics for 
 Enforced strict 5S standards, safety compliance, and process improvements across high-volume operational workflows.
 
 
-
-📫 Feel free to reach out via [Email](mailto:R.Ganipisetty@hotmail.com) or [LinkedIn](https://linkedin.com/in/rganipisetty)!
