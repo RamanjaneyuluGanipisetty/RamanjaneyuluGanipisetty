@@ -10,31 +10,31 @@ MSc Mechatronics & Mechanical Engineering Student | Seeking Placement Opportunit
 
                                           
 
-🛠️ Technical Skill Matrix
+## 🛠️ Technical Skill Matrix
 
 
-Robotics & Controls - Webots, Manipulator Design, Kinematics, Autonomous Navigation, Python, C 
-Mechanical & Simulation - FEA, SolidWorks, CATIA, Auxetic Lattice Design, Prototype Development, Materials 
-Software & Analytics - Python, Data Analytics, Algorithm Design, Process Improvement 
-Industry & Leadership - Team Leadership, Safety Compliance, Technical Documentation
+* Robotics & Controls - Webots, Manipulator Design, Kinematics, Autonomous Navigation, Python, C 
+* Mechanical & Simulation - FEA, SolidWorks, CATIA, Auxetic Lattice Design, Prototype Development, Materials 
+* Software & Analytics - Python, Data Analytics, Algorithm Design, Process Improvement 
+* Industry & Leadership - Team Leadership, Safety Compliance, Technical Documentation
 
                                          
 
-🚀 Key Engineering Projects
+## 🚀 Key Engineering Projects
 
-🤖 Robotics & Autonomous Systems
+* 🤖 Robotics & Autonomous Systems
 Gastrointestinal Diagnostic Robot Development - University Project (2026 – Present)
 Simulated a constrained-environment diagnostic robot in Webots for human GI tract navigation.
 Applied autonomous movement, sensor integration, and control principles to optimize maneuverability and data acquisition.
 
-⚙️ Mechanical Design & Structural Analysis
+* ⚙️ Mechanical Design & Structural Analysis
 Auxetic Lattice Aircraft Landing Gear Strut - University Project (2022 – 2023)
 Engineered an innovative landing gear strut featuring an auxetic lattice core wrapped in composite layers for maximum energy absorption.
 Conducted full Finite Element Analysis (FEA) to evaluate stress distribution and deformation under dynamic landing loads.
 
 
                                             
-Education & Certifications
+## Education & Certifications
 
 MSc Mechanical Engineering and Mechatronics - University of Chester *(Expected Distinction, 2026 – 2028)
 Coursework: Applied FEA, Advanced Embedded Systems & IoT, Robotics, Advanced Manufacturing.
@@ -44,7 +44,7 @@ Python Programming - NPTEL – IIT Madras (2023)
 
                                             
 
-💼 Professional Experience
+## 💼 Professional Experience
 
 AFE Team Lead - Amazon NCL-1 (Nov 2023 – Nov 2025)
 Led a team of 70+ associates, managing operational data and quality metrics for 50,000 to 75,000 daily shipments.
