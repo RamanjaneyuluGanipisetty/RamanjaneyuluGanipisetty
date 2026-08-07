@@ -40,8 +40,9 @@ Conducted full Finite Element Analysis (FEA) to evaluate stress distribution and
 Coursework: Applied FEA, Advanced Embedded Systems & IoT, Robotics, Advanced Manufacturing.
 * BSc (Hons) Mechanical Manufacturing Engineering - Newcastle College (Merit, 2021 – 2023)
 
-** Introduction to Robotics - NPTEL – IIT Madras (2025 – 2026)
-** Python Programming - NPTEL – IIT Madras (2023)
+* Introduction to Robotics - NPTEL – IIT Madras (2025 – 2026)
+
+* Python Programming - NPTEL – IIT Madras (2023)
 
                                             
 
