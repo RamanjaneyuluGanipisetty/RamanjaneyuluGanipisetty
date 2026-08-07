@@ -23,12 +23,12 @@ MSc Mechatronics & Mechanical Engineering Student | Seeking Placement Opportunit
 ## 🚀 Key Engineering Projects
 
 * 🤖 Robotics & Autonomous Systems
-| Gastrointestinal Diagnostic Robot Development - University Project (2026 – Present)
+| Gastrointestinal Diagnostic Robot Development| - University Project (2026 – Present)
 Simulated a constrained-environment diagnostic robot in Webots for human GI tract navigation.
 Applied autonomous movement, sensor integration, and control principles to optimize maneuverability and data acquisition.
 
 * ⚙️ Mechanical Design & Structural Analysis
-| Auxetic Lattice Aircraft Landing Gear Strut - University Project (2022 – 2023)
+| Auxetic Lattice Aircraft Landing Gear Strut| - University Project (2022 – 2023)
 Engineered an innovative landing gear strut featuring an auxetic lattice core wrapped in composite layers for maximum energy absorption.
 Conducted full Finite Element Analysis (FEA) to evaluate stress distribution and deformation under dynamic landing loads.
 
@@ -39,8 +39,9 @@ Conducted full Finite Element Analysis (FEA) to evaluate stress distribution and
 * MSc Mechanical Engineering and Mechatronics - University of Chester (Expected Distinction, 2026 – 2028)
 Coursework: Applied FEA, Advanced Embedded Systems & IoT, Robotics, Advanced Manufacturing.
 * BSc (Hons) Mechanical Manufacturing Engineering - Newcastle College (Merit, 2021 – 2023)
-Introduction to Robotics - NPTEL – IIT Madras (2025 – 2026)
-Python Programming - NPTEL – IIT Madras (2023)
+
+** Introduction to Robotics - NPTEL – IIT Madras (2025 – 2026)
+** Python Programming - NPTEL – IIT Madras (2023)
 
                                             
 
